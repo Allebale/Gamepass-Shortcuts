@@ -9,6 +9,6 @@ You basically scan them to your library as a quick way to see what games there a
 Then when you want to play your game you install it through the Xbox-app and overwrite the game's shortcut.
 
 There are currently 235 games as of this moment.
-If i have missed anyone please let me know.
+If i have missed any please let me know.
 
 To keep up with the latest Game Pass news, go here: https://twitter.com/xboxgamepasspc

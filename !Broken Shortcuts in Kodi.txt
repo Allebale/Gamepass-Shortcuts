@@ -11,6 +11,6 @@ Command & Conquer Remastered Collection - Command Conquer Remastered
 Dungeon Keeper 2 - Dungeon Keeper II
 Morkredd - Morkred
 Pony Island - Pony
+Xeno Crisis - Xeno
 
 I have no idea why its broken for me... 
-

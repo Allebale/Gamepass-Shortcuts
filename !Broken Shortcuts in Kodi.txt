@@ -1,4 +1,4 @@
-You need to edit the game names then rescan metadata etc with the real name.
+You might need to edit the game names then rescan metadata etc with the real name.
 Bridge Constructor Portal - BCP 
 Blair Witch - BlairWitch
 HypnoSpace Outlaw - HypnoSpaceOutlaw

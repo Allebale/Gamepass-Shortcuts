@@ -12,5 +12,6 @@ Dungeon Keeper 2 - Dungeon Keeper II
 Morkredd - Morkred
 Pony Island - Pony
 Xeno Crisis - Xeno
+Fallout Tactics - "Fallout - Tactics"
 
 I have no idea why its broken for me... 

@@ -8,7 +8,7 @@ So why use this then, you might ask?
 You basically scan them to your library as a quick way to see what games there are on Game Pass.
 Then when you want to play your game you install it through the Xbox-app and overwrite the game's shortcut.
 
-There are currently 371 games (with some being collections).
+There are currently 371 PC games (with some being collections) & 51 cloud exclusives.
 If i have missed any please let me know.
 
 If you use Kodi you will need this addon: https://forum.kodi.tv/showthread.php?tid=287826

@@ -1,7 +1,7 @@
 # Gamepass-Dummy-Shortcuts
 Dummy files to use for game launchers like Launchbox or Kodi
 
-THE SHORTCUTS ARE NOT WORKING - and that is by design. 
+MOST OF THE SHORTCUTS ARE NOT WORKING ATM - and that is by design. 
 I will change that in the future, if i get the links to work somehow.
 
 So why use this then, you might ask?

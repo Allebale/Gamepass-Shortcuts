@@ -2,7 +2,7 @@
 Dummy files to use for game launchers like Launchbox or Kodi
 
 THE SHORTCUTS ARE NOT WORKING - and that is by design. 
-I might change that in the future, if i get the links to work somehow.
+I will change that in the future, if i get the links to work somehow.
 
 So why use this then, you might ask?
 You basically scan them to your library as a quick way to see what games there are on Game Pass.

@@ -1,0 +1,27 @@
+[B]Speculative/futuristic features[/B]
+WIP      Get the .lnk files in /Cloud to open the game's xCloud webpage when its out of beta.
+
+[B]Current planned features[/B]
+
+WIP      Get the .lnk files to open the game's Microsoft Store page.
+WIP      Upload AEL XML file and artwork.
+
+Updates----------------------------------------------------------------------------------------
+#6/13 2021
+Added newly announced games from the E3 conference.
+The Evil Within 2
+Fallout Tactics
+Dishonored: Death of the Outsider
+Fallout
+Fallout 2
+Fallout 3
+Fallout: New Vegas
+Wolfenstein II: The New Colossus
+Arx Fatalis
+Yakuza Like a Dragon
+
+#6/1 2021
+Added newly announced games.
+Conan Exiles
+Backbone
+Darkest Dungeon

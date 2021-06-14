@@ -3,7 +3,8 @@ WIP      Get the .lnk files in /Cloud to open the game's xCloud webpage when its
 
 [B]Current planned features[/B]
 
-WIP      Get the .lnk files to open the game's Microsoft Store page.
+WIP      Get the Xbox .lnk files to open the game's Microsoft Store page.
+WIP      Get the EA Play .lnk files to open the game's Store page.
 WIP      Upload AEL XML file and artwork.
 
 Updates----------------------------------------------------------------------------------------

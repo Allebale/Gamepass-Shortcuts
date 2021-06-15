@@ -1,4 +1,4 @@
-# Gamepass-Dummy-Shortcuts
+# WIP-Gamepass-Shortcuts 
 Dummy files to use for game launchers like Launchbox or Kodi
 
 MOST OF THE SHORTCUTS ARE NOT WORKING ATM - and that is by design. 
@@ -11,7 +11,7 @@ Then when you want to play your game you install it through the Xbox-app and ove
 There are currently 371 PC games (with some being collections) & 51 cloud exclusives.
 If i have missed any please let me know.
 
-Earl is required to make the lnk files work (when they are all finished)
+Earl is required to make the lnk files work (when they are all done)
 https://www.dcmembers.com/skwire/download/earl/
 
 If you use Kodi you will need this addon: https://forum.kodi.tv/showthread.php?tid=287826

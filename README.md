@@ -11,6 +11,9 @@ Then when you want to play your game you install it through the Xbox-app and ove
 There are currently 371 PC games (with some being collections) & 51 cloud exclusives.
 If i have missed any please let me know.
 
+Earl is required to make the lnk files work (when they are all finished)
+https://www.dcmembers.com/skwire/download/earl/
+
 If you use Kodi you will need this addon: https://forum.kodi.tv/showthread.php?tid=287826
 
 To download all the files, click here: https://github.com/Allebale/Gamepass-Dummy-Shortcuts/archive/refs/heads/main.zip 

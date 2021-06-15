@@ -1,8 +1,8 @@
 # WIP-Gamepass-Shortcuts 
 Dummy files to use for game launchers like Launchbox or Kodi
 
-MOST OF THE SHORTCUTS ARE NOT WORKING ATM - and that is by design. 
-I will change that in the future, if i get the links to work somehow.
+MOST OF THE SHORTCUTS ARE NOT WORKING - and that is by design. 
+Although i am working on fixing that.
 
 So why use this then, you might ask?
 You basically scan them to your library as a quick way to see what games there are on Game Pass.

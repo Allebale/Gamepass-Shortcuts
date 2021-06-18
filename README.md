@@ -8,8 +8,10 @@ So why use this then, you might ask?
 You basically scan them to your library as a quick way to see what games there are on Game Pass.
 Then when you want to play your game you install it through the Xbox-app and overwrite the game's shortcut.
 
-There are currently 371 PC games (with some being collections) & 51 cloud exclusives.
+There are currently 372 PC games (with some being collections) & 51 cloud exclusives.
 If i have missed any please let me know.
+
+38 working files have been completed so far.
 
 Earl is required to make the lnk files work (when they are all done)
 https://www.dcmembers.com/skwire/download/earl/

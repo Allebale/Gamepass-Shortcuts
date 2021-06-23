@@ -13,5 +13,6 @@ Morkredd - Morkred
 Pony Island - Pony
 Xeno Crisis - Xeno
 Fallout Tactics - "Fallout - Tactics"
+Worms Rumble - WormsRumble
 
 I have no idea why its broken for me... 

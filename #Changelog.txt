@@ -4,8 +4,62 @@ WIP      Get the EA Play .lnk files to open the game's Store page.
 
 [B]Current planned features[/B]
 
-WIP      Get the Xbox .lnk files to open the game's Microsoft Store page.
+WIP      Get the Xbox .lnk files to open the game's Microsoft Store page. (~35% Done)
 WIP      Upload AEL XML file and artwork.
+----------------------------------------------------------------------------------------
+Upcoming games:
+Iron Harvest - June 24
+Need for Speed: Hot Pursuit Remastered - June 24
+Prodeus - June 24
+Banjo-Kazooie: Nuts & Bolts (Cloud) – July 1
+Bug Fables: The Everlasting Sapling - July 1
+Gang Beasts - July 1
+Immortal Realms: Vampire Wars – July 1
+Limbo – July 1
+The Ascent – July 29
+SkateBIRD - August 13
+Hades - August 13
+Twelve Minutes – August 19
+Psychonauts 2 – August 25
+Deathloop - September 14
+Aragami 2 – September 17
+Sable – September 23
+Back 4 Blood - October 12
+Age of Empires IV	- October 28
+Forza Horizon 5 - November 9
+Shredders - December
+Halo Infinite - December
+S.T.A.L.K.E.R. 2 Heart of Chernobyl	- April 24 (2022)
+Starfield - November 11 (2022)
+
+Date TBA:
+Scorn
+The Anacrusis
+Hello Neighbor 2		
+Bloodroots		
+The Gunk		
+Warhammer 40,000: Darktide		
+CrossfireX		
+Bright Memory: Infinite		
+Roboquest		
+Ghostwire: Tokyo		
+Ark 2		
+Somerville		
+REPLACED		
+Slime Rancher 2			
+Party Animals		
+Fallout 76 The Pitt		
+Eiyuden Chronicle Rising		
+A Plague Tale: Requiem		
+
+Leaving June 30th:
+Battle Chasers: Nightwar (Cloud, Console, and PC)
+Marvel vs. Capcom: Infinite (Cloud, Console, and PC)
+Mistover (PC)
+Monster Hunter World (Cloud and Console)
+Out of the Park Baseball 21 (PC)
+Outer Wilds (Cloud and Console)
+The Messenger (Cloud, Console, and PC)
 
 Updates----------------------------------------------------------------------------------------
 #6/23 2021
@@ -34,7 +88,7 @@ Arx Fatalis
 Yakuza Like a Dragon
 --------
 #6/1 2021
-Added newly announced games.
+Added:
 Conan Exiles
 Backbone
 Darkest Dungeon

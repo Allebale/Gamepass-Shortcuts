@@ -4,7 +4,7 @@ WIP      Get the EA Play .lnk files to open the game's Store page.
 
 [B]Current planned features[/B]
 
-WIP      Get the Xbox .lnk files to open the game's Microsoft Store page. (~35% Done)
+WIP      Get the XboxPC .lnk files to open the game's Microsoft Store page. (~35% Done)
 WIP      Upload AEL XML file and artwork.
 ----------------------------------------------------------------------------------------
 Upcoming games:

@@ -8,6 +8,13 @@ WIP      Get the Xbox .lnk files to open the game's Microsoft Store page.
 WIP      Upload AEL XML file and artwork.
 
 Updates----------------------------------------------------------------------------------------
+#6/23 2021
+Removed:
+Night Call
+West of Dead
+Wizard of Legend
+Observation
+
 #6/13 2021
 Added newly announced games from the E3 conference.
 The Evil Within 2

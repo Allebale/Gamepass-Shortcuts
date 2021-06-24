@@ -8,9 +8,6 @@ WIP      Get the XboxPC .lnk files to open the game's Microsoft Store page. (~35
 WIP      Upload AEL XML file and artwork.
 ----------------------------------------------------------------------------------------
 Upcoming games:
-Iron Harvest - June 24
-Need for Speed: Hot Pursuit Remastered - June 24
-Prodeus - June 24
 Going Under - June 29
 Banjo-Kazooie: Nuts & Bolts (Cloud) – July 1
 Bug Fables: The Everlasting Sapling - July 1
@@ -47,6 +44,12 @@ Outer Wilds (Cloud and Console)
 The Messenger (Cloud, Console, and PC)
 
 Updates----------------------------------------------------------------------------------------
+#6/24 2021
+Added:
+Iron Harvest
+Need for Speed: Hot Pursuit Remastered
+Prodeus
+--------
 #6/23 2021
 Removed:
 Night Call

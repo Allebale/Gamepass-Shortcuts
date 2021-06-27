@@ -1,7 +1,7 @@
 # WIP-Gamepass-Shortcuts 
 Links to use for game launchers like Launchbox or Kodi
 
-XboxPC: 85% Done.
+XboxPC: Done.
 
 EA Play: Not possible atm, but there are dummy shortcuts.
 

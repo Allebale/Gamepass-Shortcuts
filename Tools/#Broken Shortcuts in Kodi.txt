@@ -1,0 +1,18 @@
+You might need to edit the game names then rescan metadata etc with the real name.
+Bridge Constructor Portal - BCP 
+Blair Witch - BlairWitch
+HypnoSpace Outlaw - HypnoSpaceOutlaw
+Katana ZERO - Katana
+Rocket Arena - Rock
+Golf With Your Friends - Golf
+Starwars Squadrons - Squadron
+Command & Conquer Remastered Collection - Command Conquer Remastered
+Dungeon Keeper 2 - Dungeon Keeper II
+Morkredd - Redd
+Pony Island - Pony
+Xeno Crisis - Xeno
+Fallout Tactics - "Fallout - Tactics"
+Worms Rumble - WormsRumble
+Need for Speed Most Wanted - Need for Speed Most
+
+I have no idea why its broken for me... 

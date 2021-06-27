@@ -1,0 +1,84 @@
+[B]Speculative/futuristic features[/B]
+WIP      Get the .lnk files in /Cloud to open the game's xCloud webpage when its out of beta.
+WIP      Get the EA Play .lnk files to open the game's Store page.
+
+[B]Current planned features[/B]
+
+WIP      Get the XboxPC .lnk files to open the game's Microsoft Store page. (~85% Done)
+WIP      Split XboxPC and EA Play games into seperate folders.
+WIP      Upload AEL XML file and artwork.
+----------------------------------------------------------------------------------------
+Upcoming games:
+Going Under - June 29
+Banjo-Kazooie: Nuts & Bolts (Cloud) – July 1
+Bug Fables: The Everlasting Sapling - July 1
+Gang Beasts - July 1
+Immortal Realms: Vampire Wars – July 1
+Limbo – July 1
+The Ascent – July 29
+Lemins Gate - August 3
+SkateBIRD - August 13
+Hades - August 13
+The Big Con - Summer
+Twelve Minutes – August 19
+Psychonauts 2 – August 25
+Deathloop - September 14
+Aragami 2 – September 17
+Sable – September 23
+Back 4 Blood - October 12
+Age of Empires IV - October 28
+Forza Horizon 5 - November 9
+Shredders - December
+Halo Infinite - December
+S.T.A.L.K.E.R. 2 Heart of Chernobyl - April 24 (2022)
+Starfield - November 11 (2022)
+
+Date TBA:
+https://pastebin.com/raw/Xwh5QkQx
+
+Leaving June 30th:
+Battle Chasers: Nightwar (Cloud, Console, and PC)
+Marvel vs. Capcom: Infinite (Cloud, Console, and PC)
+Mistover (PC)
+Monster Hunter World (Cloud and Console)
+Out of the Park Baseball 21 (PC)
+Outer Wilds (Cloud and Console)
+The Messenger (Cloud, Console, and PC)
+
+Updates----------------------------------------------------------------------------------------
+#6/24 2021
+Added:
+Iron Harvest
+Need for Speed: Hot Pursuit Remastered
+Prodeus
+--------
+#6/23 2021
+Removed:
+Night Call
+West of Dead
+Wizard of Legend
+Observation
+
+Added:
+Medieval Dynasty
+Dungeons & Dragons: Dark Alliance
+Worms Rumble
+--------
+#6/13 2021
+Added newly announced games from the E3 conference.
+The Evil Within 2
+Fallout Tactics
+Dishonored: Death of the Outsider
+Fallout
+Fallout 2
+Fallout 3
+Fallout: New Vegas
+Wolfenstein II: The New Colossus
+Arx Fatalis
+Yakuza Like a Dragon
+--------
+#6/1 2021
+Added:
+Conan Exiles
+Backbone
+Darkest Dungeon

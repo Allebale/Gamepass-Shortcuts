@@ -3,9 +3,6 @@ WIP      Get the .lnk files in /Cloud to open the game's xCloud webpage when its
 WIP      Get the EA Play .lnk files to open the game's Store page.
 
 [B]Current planned features[/B]
-
-WIP      Get the XboxPC .lnk files to open the game's Microsoft Store page. (~85% Done)
-WIP      Split XboxPC and EA Play games into seperate folders.
 WIP      Upload AEL XML file and artwork.
 ----------------------------------------------------------------------------------------
 Upcoming games:
@@ -46,6 +43,10 @@ Outer Wilds (Cloud and Console)
 The Messenger (Cloud, Console, and PC)
 
 Updates----------------------------------------------------------------------------------------
+#6/28 2021
+Got the XboxPC .lnk files to open the game's Microsoft Store page.
+Split Xbox App and EA Play games into seperate folders.
+--------
 #6/24 2021
 Added:
 Iron Harvest

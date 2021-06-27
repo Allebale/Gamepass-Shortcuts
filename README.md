@@ -3,9 +3,9 @@ Links to use for game launchers like Launchbox or Kodi
 
 XboxPC: Done.
 
-EA Play: Not possible atm, but there are dummy shortcuts.
+EA Play: Not possible atm, but there are dummy shortcuts. (Overwrite the shortcut)
 
-Cloud: Not released yet for PC but there are dummy shortcuts.
+Cloud: Not released yet for PC but there are dummy shortcuts. (Overwrite the shortcut)
 
 There are currently 373 PC games (with some being collections) & 51 cloud "exclusives".
 If i have missed any please let me know.

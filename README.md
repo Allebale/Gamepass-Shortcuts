@@ -1,4 +1,4 @@
-# Gamepass-Shortcuts 
+# Gamepass Shortcuts 
 Links to use for game launchers like Launchbox or Kodi
 
 XboxPC: Done.

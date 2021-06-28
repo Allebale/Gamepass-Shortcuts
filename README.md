@@ -1,7 +1,7 @@
 # Gamepass Shortcuts 
 Links to use for game launchers like Launchbox or Kodi
 
-XboxPC: Done.
+Xbox App: Done.
 
 EA Play: Not possible atm, but there are dummy shortcuts. (Overwrite the shortcut)
 

@@ -1,5 +1,5 @@
 [B]Speculative/futuristic features[/B]
-WIP      Get the .lnk files in /Cloud to open the game's xCloud webpage when its out of beta.
+WIP      Get the .lnk files in Cloud to open the game's xCloud webpage when its out of beta.
 WIP      Get the EA Play .lnk files to open the game's Store page.
 
 [B]Current planned features[/B]

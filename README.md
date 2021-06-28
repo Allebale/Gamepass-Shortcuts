@@ -1,9 +1,9 @@
 # Gamepass Shortcuts 
 Links to use for game launchers like Launchbox or Kodi
 
-Xbox App: Done.
+Xbox App: Working.
 
-EA Play: Not possible atm, but there are dummy shortcuts. (Overwrite the shortcut)
+EA Play: Not working atm, but there are dummy shortcuts. (Overwrite the shortcut)
 
 Cloud: Not released yet for PC but there are dummy shortcuts. (Overwrite the shortcut)
 

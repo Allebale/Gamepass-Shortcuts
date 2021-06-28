@@ -1,10 +1,6 @@
-To make everything work faster, here is how you can help:
-
 For making working xbox game shortcuts, follow these guides and download this program:
 https://www.tenforums.com/tutorials/122655-create-shortcut-directly-open-app-microsoft-store-windows-10-a.html
 https://www.ilovefreesoftware.com/18/windows/convert-internet-shortcut-files-windows-shortcut-files.html
-
-All the shortcuts that still are dummy files won't display "View raw" yet.
 
 
 For making working EA Play game shortcuts - TBA

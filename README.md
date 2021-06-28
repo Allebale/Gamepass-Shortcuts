@@ -7,7 +7,7 @@ EA Play: Not possible atm, but there are dummy shortcuts. (Overwrite the shortcu
 
 Cloud: Not released yet for PC but there are dummy shortcuts. (Overwrite the shortcut)
 
-There are currently 373 PC games (with some being collections) & 51 cloud "exclusives".
+There are currently 374 PC games (with some being collections) & 51 cloud "exclusives".
 If i have missed any please let me know.
 
 If you use Kodi you will need this addon: https://forum.kodi.tv/showthread.php?tid=287826

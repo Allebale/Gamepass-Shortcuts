@@ -2,6 +2,5 @@ For making working xbox game shortcuts, follow these guides and download this pr
 https://www.tenforums.com/tutorials/122655-create-shortcut-directly-open-app-microsoft-store-windows-10-a.html
 https://www.ilovefreesoftware.com/18/windows/convert-internet-shortcut-files-windows-shortcut-files.html
 
-
 For making working EA Play game shortcuts - TBA
 For making working xCloud game shortcuts - TBA

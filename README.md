@@ -5,7 +5,7 @@ Xbox App: Working.
 
 EA Play: Not working atm, but there are dummy shortcuts. (Overwrite the shortcuts)
 
-Cloud: Not released yet for PC but there are dummy shortcuts. (Wait for it to be released)
+Cloud: Im working on it.
 
 There are currently 374 PC games (with some being collections) & 51 cloud "exclusives".
 

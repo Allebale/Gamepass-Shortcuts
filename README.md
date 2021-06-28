@@ -9,7 +9,7 @@ Cloud: Not released yet for PC but there are dummy shortcuts. (Overwrite the sho
 
 There are currently 374 PC games (with some being collections) & 51 cloud "exclusives".
 
-If i have missed any please let me know.
+If i have missed any, please let me know.
 
 If you use Kodi you will need this addon: https://forum.kodi.tv/showthread.php?tid=287826
 

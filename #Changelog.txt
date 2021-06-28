@@ -46,6 +46,8 @@ Updates-------------------------------------------------------------------------
 #6/28 2021
 Got the XboxPC .lnk files to open the game's Microsoft Store page.
 Split Xbox App and EA Play games into seperate folders.
+Added:
+Fallout Shelter
 --------
 #6/24 2021
 Added:

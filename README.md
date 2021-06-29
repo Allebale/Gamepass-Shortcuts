@@ -1,11 +1,9 @@
 # Gamepass Shortcuts 
 Links to use for game launchers like Launchbox or Kodi
 
-Xbox App: Working.
+Xbox App & xCloud: Working.
 
 EA Play: Not working atm, but there are dummy shortcuts. (Overwrite the shortcuts)
-
-Cloud: Im working on it.
 
 There are currently 374 PC games (with some being collections) & 51 cloud "exclusives".
 

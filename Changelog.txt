@@ -2,11 +2,9 @@
 WIP      Get the EA Play .lnk files to open the game's Store page.
 
 [B]Current planned features[/B]
-WIP      Get the Cloud .lnk files to open the game's xCloud webpage.
 WIP      Upload AEL XML file and artwork.
 ----------------------------------------------------------------------------------------
 Upcoming games:
-Going Under - June 29
 Banjo-Kazooie: Nuts & Bolts (Cloud) – July 1
 Bug Fables: The Everlasting Sapling - July 1
 Gang Beasts - July 1
@@ -43,6 +41,11 @@ Outer Wilds (Cloud and Console)
 The Messenger (Cloud, Console, and PC)
 
 Updates----------------------------------------------------------------------------------------
+#6/29 2021
+Got the Cloud .lnk files to open the game's xCloud webpage.
+Added:
+Going Under
+--------
 #6/28 2021
 Got the XboxPC .lnk files to open the game's Microsoft Store page.
 Split Xbox App and EA Play games into seperate folders.

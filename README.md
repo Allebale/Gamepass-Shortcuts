@@ -1,5 +1,5 @@
 # Gamepass Shortcuts 
-Links to use for game launchers.
+Links to use for game launchers that doesnt import Game Pass games (or the full catalogue).
 
 Xbox App & xCloud: Working.
 

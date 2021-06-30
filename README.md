@@ -1,5 +1,5 @@
 # Gamepass Shortcuts 
-Links to use for game launchers like Launchbox or Kodi
+Links to use for game launchers.
 
 Xbox App & xCloud: Working.
 

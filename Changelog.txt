@@ -29,6 +29,7 @@ TBA
 
 Updates----------------------------------------------------------------------------------------
 #7/1 2021
+Created a file that makes xCloud go fullscreen automatically.
 Added:
 Banjo-Kazooie: Nuts & Bolts (Cloud)
 Immortal Realms: Vampire Wars (Cloud) 
@@ -53,6 +54,7 @@ Going Under
 #6/28 2021
 Got the XboxPC .lnk files to open the game's Microsoft Store page.
 Split Xbox App and EA Play games into seperate folders.
+Created a uninstaller shortcut.
 Added:
 Fallout Shelter
 --------

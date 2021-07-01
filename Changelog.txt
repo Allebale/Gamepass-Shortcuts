@@ -5,11 +5,6 @@ WIP      Get the EA Play .lnk files to open the game's Store page.
 WIP      Upload AEL XML file and artwork.
 ----------------------------------------------------------------------------------------
 Upcoming games:
-Banjo-Kazooie: Nuts & Bolts (Cloud) – July 1
-Bug Fables: The Everlasting Sapling - July 1
-Gang Beasts - July 1
-Immortal Realms: Vampire Wars – July 1
-Limbo – July 1
 The Ascent – July 29
 Lemins Gate - August 3
 SkateBIRD - August 13
@@ -29,7 +24,18 @@ S.T.A.L.K.E.R. 2 Heart of Chernobyl - April 24 (2022)
 Starfield - November 11 (2022)
 Date TBA: https://pastebin.com/raw/Xwh5QkQx
 
-Leaving June 30th:
+Leaving Soon:
+TBA
+
+Updates----------------------------------------------------------------------------------------
+#7/1 2021
+Added:
+Banjo-Kazooie: Nuts & Bolts (Cloud) – July 1
+Bug Fables: The Everlasting Sapling - July 1
+Gang Beasts - July 1
+Limbo – July 1
+
+Removed:
 Battle Chasers: Nightwar (Cloud, Console, and PC)
 Marvel vs. Capcom: Infinite (Cloud, Console, and PC)
 Mistover (PC)
@@ -38,7 +44,6 @@ Out of the Park Baseball 21 (PC)
 Outer Wilds (Cloud and Console)
 The Messenger (Cloud, Console, and PC)
 
-Updates----------------------------------------------------------------------------------------
 #6/29 2021
 Got the Cloud .lnk files to open the game's xCloud webpage.
 Added:

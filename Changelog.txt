@@ -30,10 +30,11 @@ TBA
 Updates----------------------------------------------------------------------------------------
 #7/1 2021
 Added:
-Banjo-Kazooie: Nuts & Bolts (Cloud) – July 1
-Bug Fables: The Everlasting Sapling - July 1
-Gang Beasts - July 1
-Limbo – July 1
+Banjo-Kazooie: Nuts & Bolts (Cloud)
+Immortal Realms: Vampire Wars (Cloud) 
+Bug Fables: The Everlasting Sapling
+Gang Beasts
+Limbo
 
 Removed:
 Battle Chasers: Nightwar (Cloud, Console, and PC)

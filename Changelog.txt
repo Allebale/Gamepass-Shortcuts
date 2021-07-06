@@ -5,7 +5,10 @@ WIP      Get the EA Play .lnk files to open the game's Store page.
 WIP      Upload AEL XML file and artwork.
 ----------------------------------------------------------------------------------------
 Upcoming games:
+Cris Tales - July
+Last Stop - July 22
 The Ascent – July 29
+The Forgotten City - July 29
 Lemins Gate - August 3
 SkateBIRD - August 13
 Hades - August 13

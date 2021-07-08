@@ -5,8 +5,6 @@ WIP      Get the EA Play .lnk files to open the game's Store page.
 WIP      Upload AEL XML file and artwork.
 ----------------------------------------------------------------------------------------
 Upcoming games:
-Tropico 6 - July 8
-Dragon Quest Builders 2 (Cloud) – July 8
 Farming Simulator 19 - July 15
 Bloodroots – July 15
 Cris Tales - July 19
@@ -39,6 +37,11 @@ CrossCode
 Endless Space 2
 
 Updates----------------------------------------------------------------------------------------
+#7/8 2021
+Added:
+Tropico 6
+Dragon Quest Builders 2 (Cloud)
+--------
 #7/1 2021
 Created a file that makes xCloud go fullscreen automatically.
 Added:
@@ -56,7 +59,7 @@ Monster Hunter World (Cloud and Console)
 Out of the Park Baseball 21 (PC)
 Outer Wilds (Cloud and Console)
 The Messenger (Cloud, Console, and PC)
-
+--------
 #6/29 2021
 Got the Cloud .lnk files to open the game's xCloud webpage.
 Added:

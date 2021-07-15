@@ -5,8 +5,6 @@ WIP      Get the EA Play .lnk files to open the game's Store page.
 WIP      Upload AEL XML file and artwork.
 ----------------------------------------------------------------------------------------
 Upcoming games:
-Farming Simulator 19 - July 15
-Bloodroots – July 15
 Cris Tales - July 19
 Last Stop - July 22
 The Ascent – July 29
@@ -37,6 +35,11 @@ CrossCode
 Endless Space 2
 
 Updates----------------------------------------------------------------------------------------
+#7/15 2021
+Added:
+Farming Simulator 19
+Bloodroots
+--------
 #7/8 2021
 Added:
 Tropico 6

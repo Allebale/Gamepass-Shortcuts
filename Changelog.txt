@@ -29,12 +29,15 @@ Starfield - November 11 (2022)
 Date TBA: https://pastebin.com/raw/Az0pdeLJ
 
 Leaving Soon:
-July 16:
+TBA
+
+Updates----------------------------------------------------------------------------------------
+#7/16 2021
+Removed:
 Downwell
 CrossCode
 Endless Space 2
-
-Updates----------------------------------------------------------------------------------------
+--------
 #7/15 2021
 Added:
 Farming Simulator 19

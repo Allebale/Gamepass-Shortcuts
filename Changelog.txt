@@ -5,7 +5,6 @@ WIP      Get the EA Play .lnk files to open the game's Store page.
 WIP      Upload AEL XML file and artwork.
 ----------------------------------------------------------------------------------------
 Upcoming games:
-Cris Tales - July 19
 Last Stop - July 22
 The Ascent – July 29
 The Forgotten City - July 29
@@ -35,6 +34,10 @@ The Touryst
 UnderMine
 
 Updates----------------------------------------------------------------------------------------
+#7/20
+Added:
+Cris Tales
+--------
 #7/16 2021
 Removed:
 Downwell

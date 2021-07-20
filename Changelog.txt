@@ -5,7 +5,7 @@ WIP      Get the EA Play .lnk files to open the game's Store page.
 WIP      Upload AEL XML file and artwork.
 ----------------------------------------------------------------------------------------
 Upcoming games:
-Crimson Skies - Soon (Cloud)
+Crimson Skies High Road To Revenge - Soon (Cloud)
 Blinx The Time Sweeper - Soon (Cloud)
 Atomicrops - Soon
 Raji - Soon

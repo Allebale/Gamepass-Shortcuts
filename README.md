@@ -5,7 +5,7 @@ Xbox App & xCloud: Working.
 
 EA Play: Not working atm, but there are dummy shortcuts. (Overwrite the shortcuts)
 
-There are currently 374 PC games (with some being collections) & 53 cloud "exclusives".
+There are currently 378 PC games (with some being collections) & 53 cloud "exclusives".
 
 If i have missed any, please let me know.
 

@@ -7,11 +7,8 @@ WIP      Upload AEL XML file and artwork.
 Upcoming games:
 Crimson Skies High Road To Revenge - Soon (Cloud)
 Blinx The Time Sweeper - Soon (Cloud)
-Atomicrops - Soon
-Raji - Soon
 Lethal League Blaze - Soon
 Wingman - Soon
-Last Stop - July 22
 The Ascent – July 29
 The Forgotten City - July 29
 Omno - July 29
@@ -40,6 +37,12 @@ The Touryst
 UnderMine
 
 Updates----------------------------------------------------------------------------------------
+#7/22
+Added:
+Atomicrops
+Raj
+Last Stop
+--------
 #7/20
 Added:
 Cris Tales

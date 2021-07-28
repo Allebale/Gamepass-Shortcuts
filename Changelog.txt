@@ -5,12 +5,9 @@ WIP      Get the EA Play .lnk files to open the game's Store page.
 WIP      Upload AEL XML file and artwork.
 ----------------------------------------------------------------------------------------
 Upcoming games:
-Crimson Skies High Road To Revenge - Soon (Cloud)
-Blinx The Time Sweeper - Soon (Cloud)
 Lethal League Blaze - Soon
 Wingman - Soon
 The Ascent – July 29
-The Forgotten City - July 29
 Omno - July 29
 Lemins Gate - August 3
 SkateBIRD - August 13
@@ -37,6 +34,10 @@ The Touryst
 UnderMine
 
 Updates----------------------------------------------------------------------------------------
+#7/28
+Added:
+Crimson Skies High Road To Revenge (Cloud)
+Blinx The Time Sweeper (Cloud)
 #7/22
 Added:
 Atomicrops

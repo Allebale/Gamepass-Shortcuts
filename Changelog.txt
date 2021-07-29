@@ -5,7 +5,6 @@ WIP      Get the EA Play .lnk files to open the game's Store page.
 WIP      Upload AEL XML file and artwork.
 ----------------------------------------------------------------------------------------
 Upcoming games:
-The Ascent – July 29
 Lemins Gate - August 3
 SkateBIRD - August 13
 Hades - August 13

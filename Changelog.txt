@@ -33,6 +33,7 @@ UnderMine
 Updates----------------------------------------------------------------------------------------
 #7/29
 Added:
+The Ascent
 Lethal League Blaze
 Project Wingman
 Omno

@@ -24,12 +24,16 @@ S.T.A.L.K.E.R. 2 Heart of Chernobyl - April 24 (2022)
 Starfield - November 11 (2022)
 Date TBA: https://pastebin.com/raw/Az0pdeLJ
 
-Leaving Soon: (July 31)
+Leaving Soon: (Aug 16)
+TBA
+
+Updates----------------------------------------------------------------------------------------
+#8/1
+Removed:
 It Lurks Below
 The Touryst
 UnderMine
-
-Updates----------------------------------------------------------------------------------------
+---------
 #7/29
 Added:
 The Ascent

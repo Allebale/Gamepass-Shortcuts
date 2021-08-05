@@ -5,7 +5,6 @@ WIP      Get the EA Play .lnk files to open the game's Store page.
 WIP      Upload AEL XML file and artwork.
 ----------------------------------------------------------------------------------------
 Upcoming games:
-Lemins Gate - August 3
 Hades - August 13
 Twelve Minutes – August 19
 Psychonauts 2 – August 25
@@ -14,6 +13,7 @@ Deathloop - September 14
 SkateBIRD - September 16
 Aragami 2 – September 17
 Sable – September 23
+Lemins Gate - September 28
 The Gunk – September
 Back 4 Blood - October 12
 Age of Empires IV - October 28
@@ -34,6 +34,15 @@ Final Fantasy VII
 Crossing Souls
 
 Updates----------------------------------------------------------------------------------------
+#8/6
+Added:
+Skate 3 (Cloud)
+Katamari Damacy REROLL
+Starmancer
+Curse of the Dead Gods
+LUMINES REMASTERED
+Dodgeball Academia
+---------
 #8/1
 Removed:
 It Lurks Below

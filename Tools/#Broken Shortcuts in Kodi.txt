@@ -14,5 +14,6 @@ Xeno Crisis - Xeno
 Fallout Tactics - "Fallout - Tactics"
 Worms Rumble - WormsRumble
 Need for Speed Most Wanted - Need for Speed Most
+Curse of the Dead Gods - Curse of the Dead
 
 I have no idea why its broken for me... 

@@ -1,8 +1,9 @@
 [B]Speculative/futuristic features[/B]
 WIP      Get the EA Play .lnk files to open the game's Store page.
+WIP      Upload AEL XML file and artwork.
 
 [B]Current planned features[/B]
-WIP      Upload AEL XML file and artwork.
+WIP      Make the Xbox app open instead of Microsoft Store.
 ----------------------------------------------------------------------------------------
 Upcoming games:
 Hades - August 13
@@ -34,6 +35,10 @@ Final Fantasy VII
 Crossing Souls
 
 Updates----------------------------------------------------------------------------------------
+#8/10
+Added:
+Library Of Ruina
+---------
 #8/6
 Added:
 Skate 3 (Cloud)

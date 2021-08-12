@@ -6,8 +6,6 @@ WIP      Upload AEL XML file and artwork.
 WIP      Make the Xbox app open instead of Microsoft Store.
 ----------------------------------------------------------------------------------------
 Upcoming games:
-Art of Rally - August 12
-Hades - August 13
 Solitaire Collection - August 17 
 Twelve Minutes – August 19
 Psychonauts 2 – August 25
@@ -37,6 +35,11 @@ Final Fantasy VII
 Crossing Souls
 
 Updates----------------------------------------------------------------------------------------
+#8/13
+Added:
+Art of Rally
+Hades
+---------
 #8/10
 Added:
 Library Of Ruina

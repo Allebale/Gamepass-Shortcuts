@@ -6,7 +6,6 @@ WIP      Upload AEL XML file and artwork.
 WIP      Make the Xbox app open instead of Microsoft Store.
 ----------------------------------------------------------------------------------------
 Upcoming games:
-Twelve Minutes – August 19
 Psychonauts 2 – August 25
 The Big Con - Summer
 Deathloop - September 14
@@ -30,13 +29,18 @@ Dirt Rally 1 & 2
 Grid 
 https://pastebin.com/raw/Az0pdeLJ
 
-Leaving Soon: (Aug 31)
+Leaving Soon: (Sep 1)
 Blair Witch
 Double Kick Heroes
 Stranger Things 3: The Game
 NBA 2K21 
 
 Updates----------------------------------------------------------------------------------------
+#8/19
+Recompile
+Twelve Minutes
+Train Sim World® 2
+---------
 #8/17
 Added:
 Humankind

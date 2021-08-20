@@ -36,7 +36,14 @@ Stranger Things 3: The Game
 NBA 2K21 
 
 Updates----------------------------------------------------------------------------------------
+#8/20
+Added:
+Quake
+Quake II
+Quake III Arena
+---------
 #8/19
+Added:
 Recompile
 Twelve Minutes
 Train Sim World® 2

@@ -7,7 +7,7 @@ WIP      Make the Xbox app open instead of Microsoft Store.
 ----------------------------------------------------------------------------------------
 Upcoming games:
 Psychonauts 2 – August 25
-The Big Con - Summer
+The Big Con - August 31
 Deathloop - September 14
 SkateBIRD - September 16
 Aragami 2 – September 17
@@ -15,6 +15,7 @@ Sable – September 23
 Lemins Gate - September 28
 The Gunk – September
 Back 4 Blood - October 12
+NTO THE PIT - October 19
 Age of Empires IV - October 28
 Forza Horizon 5 - November 9
 Shredders - December

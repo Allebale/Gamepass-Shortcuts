@@ -6,7 +6,6 @@ WIP      Upload AEL XML file and artwork.
 WIP      Make the Xbox app open instead of Microsoft Store.
 ----------------------------------------------------------------------------------------
 Upcoming games:
-Psychonauts 2 – August 25
 The Big Con - August 31
 Deathloop - September 14
 SkateBIRD - September 16
@@ -24,10 +23,6 @@ S.T.A.L.K.E.R. 2 Heart of Chernobyl - April 24 (2022)
 Starfield - November 11 (2022)
 
 Added Soon:
-F1 2020
-Dirt 4
-Dirt Rally 1 & 2
-Grid 
 https://pastebin.com/raw/Az0pdeLJ
 
 Leaving Soon: (Sep 1)
@@ -37,6 +32,10 @@ Stranger Things 3: The Game
 NBA 2K21 
 
 Updates----------------------------------------------------------------------------------------
+#8/25
+Added:
+Psychonauts 2
+---------
 #8/20
 Added:
 Quake

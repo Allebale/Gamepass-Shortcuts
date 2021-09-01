@@ -6,6 +6,13 @@ WIP      Upload AEL XML file and artwork.
 WIP      Make the Xbox app open instead of Microsoft Store.
 ----------------------------------------------------------------------------------------
 Upcoming games:
+Craftopia – September 2
+Final Fantasy XIII – September 2
+Signs of the Sojourner – September 2
+Surgeon Simulator 2 – September 2
+Breathedge – September 9
+Nuclear Throne – September 9
+The Artful Escape – September 9
 Deathloop - September 14
 SkateBIRD - September 16
 Aragami 2 – September 17
@@ -25,7 +32,13 @@ Added Soon:
 https://pastebin.com/raw/Az0pdeLJ
 
 Leaving Soon: (Sep 15)
-TBA
+Red Dead Online 
+Company of Heroes 2 (PC)
+Disgaea 4 (PC)
+Forza Motorsport 7 (Cloud, Console, and PC)
+Hotshot Racing (Cloud and Console)
+The Dark Crystal: Age of Resistance Tactics (Cloud, Console, and PC)
+Thronebreaker: The Witcher Tales (Cloud and Console)
 
 Updates----------------------------------------------------------------------------------------
 #9/1
@@ -34,7 +47,6 @@ Blair Witch
 Double Kick Heroes
 Stranger Things 3: The Game
 NBA 2K21 
-Red Dead Online
 ---------
 #8/25
 Added:

@@ -6,7 +6,6 @@ WIP      Upload AEL XML file and artwork.
 WIP      Make the Xbox app open instead of Microsoft Store.
 ----------------------------------------------------------------------------------------
 Upcoming games:
-The Big Con - August 31
 Deathloop - September 14
 SkateBIRD - September 16
 Aragami 2 – September 17
@@ -25,15 +24,21 @@ Starfield - November 11 (2022)
 Added Soon:
 https://pastebin.com/raw/Az0pdeLJ
 
-Leaving Soon: (Sep 1)
+Leaving Soon: (Sep 15)
+TBA
+
+Updates----------------------------------------------------------------------------------------
+#9/1
+Removed:
 Blair Witch
 Double Kick Heroes
 Stranger Things 3: The Game
 NBA 2K21 
-
-Updates----------------------------------------------------------------------------------------
+Red Dead Online
+---------
 #8/25
 Added:
+Myst
 Psychonauts 2
 ---------
 #8/20

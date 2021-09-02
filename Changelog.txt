@@ -6,10 +6,6 @@ WIP      Upload AEL XML file and artwork.
 WIP      Make the Xbox app open instead of Microsoft Store.
 ----------------------------------------------------------------------------------------
 Upcoming games:
-Craftopia – September 2
-Final Fantasy XIII – September 2
-Signs of the Sojourner – September 2
-Surgeon Simulator 2 – September 2
 Breathedge – September 9
 Nuclear Throne – September 9
 The Artful Escape – September 9
@@ -41,6 +37,13 @@ The Dark Crystal: Age of Resistance Tactics (Cloud, Console, and PC)
 Thronebreaker: The Witcher Tales (Cloud and Console)
 
 Updates----------------------------------------------------------------------------------------
+#9/2
+Added:
+Craftopia
+Final Fantasy XIII
+Signs of the Sojourner
+Surgeon Simulator
+---------
 #9/1
 Removed:
 Blair Witch

@@ -6,10 +6,6 @@ WIP      Upload AEL XML file and artwork.
 WIP      Make the Xbox app open instead of Microsoft Store.
 ----------------------------------------------------------------------------------------
 Upcoming games:
-Breathedge – September 9
-Nuclear Throne – September 9
-The Artful Escape – September 9
-Deathloop - September 14
 SkateBIRD - September 16
 Aragami 2 – September 17
 Sable – September 23

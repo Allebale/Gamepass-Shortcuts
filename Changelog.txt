@@ -6,10 +6,6 @@ WIP      Upload AEL XML file and artwork.
 WIP      Make the Xbox app open instead of Microsoft Store.
 ----------------------------------------------------------------------------------------
 Upcoming games:
-Flynn: Son of Crimson – September 15
-I Am Fish – September 16
-SkateBird – September 16
-Superliminal – September 16
 Aragami 2 – September 17
 Lost Words: Beyond the Page – September 23
 Sable – September 23
@@ -31,16 +27,26 @@ Starfield - November 11 (2022)
 Added Soon:
 https://pastebin.com/raw/Az0pdeLJ
 
-Leaving Soon: (Sep 15)
-Red Dead Online 
-Company of Heroes 2 (PC)
-Disgaea 4 (PC)
-Forza Motorsport 7 (Cloud, Console, and PC)
-Hotshot Racing (Cloud and Console)
-The Dark Crystal: Age of Resistance Tactics (Cloud, Console, and PC)
-Thronebreaker: The Witcher Tales (Cloud and Console)
+Leaving Soon: (Sep 30)
+tba
 
 Updates----------------------------------------------------------------------------------------
+#16/9
+Added:
+Flynn: Son of Crimson
+I Am Fish
+SkateBird
+Superliminal
+
+Removed:
+Red Dead Online 
+Company of Heroes 2
+Disgaea 4
+Forza Motorsport 7
+Hotshot Racing
+The Dark Crystal: Age of Resistance Tactics
+Thronebreaker: The Witcher Tales
+---------
 #9/9
 Added:
 Crown Trick

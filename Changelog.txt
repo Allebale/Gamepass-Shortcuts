@@ -6,11 +6,7 @@ WIP      Upload AEL XML file and artwork.
 WIP      Make the Xbox app open instead of Microsoft Store.
 ----------------------------------------------------------------------------------------
 Upcoming games:
-Aragami 2 – September 17
 Lost Words: Beyond the Page – September 23
-Sable – September 23
-Subnautica: Below Zero – September 23
-Tainted Grail: Conquest – September 23
 Lemnis Gate – September 28
 Astria Ascending – September 30
 Unsighted – September 30
@@ -31,6 +27,12 @@ Leaving Soon: (Sep 30)
 tba
 
 Updates----------------------------------------------------------------------------------------
+#23/9
+Added:
+Sable
+Subnautica Below Zero
+Tainted Grail Conquest
+---------
 #16/9
 Added:
 Flynn: Son of Crimson

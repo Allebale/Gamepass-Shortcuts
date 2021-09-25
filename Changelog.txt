@@ -6,7 +6,6 @@ WIP      Upload AEL XML file and artwork.
 WIP      Make the Xbox app open instead of Microsoft Store.
 ----------------------------------------------------------------------------------------
 Upcoming games:
-Lost Words: Beyond the Page – September 23
 Lemnis Gate – September 28
 Astria Ascending – September 30
 Unsighted – September 30
@@ -32,6 +31,7 @@ Added:
 Sable
 Subnautica Below Zero
 Tainted Grail Conquest
+Lost Words: Beyond the Page
 ---------
 #16/9
 Added:

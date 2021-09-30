@@ -6,8 +6,8 @@ WIP      Upload AEL XML file and artwork.
 WIP      Make the Xbox app open instead of Microsoft Store.
 ----------------------------------------------------------------------------------------
 Upcoming games:
-Lemnis Gate – September 28
 Astria Ascending – September 30
+Marvels Avengers – September 30
 Unsighted – September 30
 The Gunk – September
 Back 4 Blood - October 12
@@ -26,6 +26,12 @@ Leaving Soon: (Sep 30)
 tba
 
 Updates----------------------------------------------------------------------------------------
+#30/9
+Added:
+Scarlet Nexus
+AI: The Somnium Files
+Mighty Goose
+---------
 #28/9
 Added:
 Dandy Ace

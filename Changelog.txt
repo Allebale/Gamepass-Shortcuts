@@ -28,6 +28,7 @@ tba
 Updates----------------------------------------------------------------------------------------
 #30/9
 Added:
+Marvel's Avengers
 Scarlet Nexus
 AI: The Somnium Files
 Mighty Goose

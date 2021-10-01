@@ -6,10 +6,6 @@ WIP      Upload AEL XML file and artwork.
 WIP      Make the Xbox app open instead of Microsoft Store.
 ----------------------------------------------------------------------------------------
 Upcoming games:
-Astria Ascending – September 30
-Marvels Avengers – September 30
-Unsighted – September 30
-The Gunk – September
 Back 4 Blood - October 12
 NTO THE PIT - October 19
 Age of Empires IV - October 28
@@ -26,6 +22,20 @@ Leaving Soon: (Sep 30)
 tba
 
 Updates----------------------------------------------------------------------------------------
+#1/10
+Added:
+Astria Ascending
+Marvel's Avengers
+UNSIGHTED
+
+Removed:
+Marvel's Avengers (Mistake, wrong folder)
+Drake Hollow 
+Ikenfell
+Night in the Woods
+Kathy Rain
+Warhammer: Vermintide II
+---------
 #30/9
 Added:
 Marvel's Avengers

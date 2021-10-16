@@ -18,16 +18,25 @@ Starfield - November 11 (2022)
 Added Soon:
 https://pastebin.com/raw/Az0pdeLJ
 
-Leaving Soon: (Oct 15)
+Leaving Soon: (Oct 31)
+
+Updates----------------------------------------------------------------------------------------
+#16/10
+Added:
+Destiny 2
+Ring of Pain
+The Riftbreaker
+The Good Life
+
+Removed:
 Scourgebringer
 Heave Ho
 Tales of Vesperia
 Katana Zero
 Gonner2
 The Swords of Ditto: Mormo's Curse
-
-Updates----------------------------------------------------------------------------------------
-#7/12
+---------
+#7/10
 Added:
 Back 4 Blood
 ---------

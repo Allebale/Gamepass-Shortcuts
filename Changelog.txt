@@ -6,9 +6,14 @@ WIP      Upload AEL XML file and artwork.
 WIP      Make the Xbox app open instead of Microsoft Store.
 ----------------------------------------------------------------------------------------
 Upcoming games:
-Back 4 Blood - October 12
-NTO THE PIT - October 19
+Dragon Ball FighterZ (Cloud) - October 21
+Echo Generation - October 21
+Everspace 2 - October 21
 Age of Empires IV - October 28
+Alan Wake’s American Nightmare - October 28
+Bassmaster Fishing 2022 - October 28
+Nongunz: Doppelganger Edition - October 28
+The Forgotten City - October 28
 Forza Horizon 5 - November 9
 Shredders - December
 Halo Infinite - December 8
@@ -21,6 +26,11 @@ https://pastebin.com/raw/Az0pdeLJ
 Leaving Soon: (Oct 31)
 
 Updates----------------------------------------------------------------------------------------
+#19/10
+Added:
+Into the Pit
+Outriders
+---------
 #16/10
 Added:
 Destiny 2
@@ -35,6 +45,7 @@ Tales of Vesperia
 Katana Zero
 Gonner2
 The Swords of Ditto: Mormo's Curse
+Vampyr
 ---------
 #7/10
 Added:
